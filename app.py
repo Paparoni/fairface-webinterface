@@ -102,4 +102,4 @@ if nav == "Home":
 
 elif nav == "About":
     st.title("About Page")
-    # Add information about your app here
+    # Add information the app here
