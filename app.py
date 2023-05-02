@@ -4,7 +4,6 @@ import hashlib
 import pandas as pd
 import subprocess
 import matplotlib.pyplot as plt
-import seaborn as sns
 import numgen
 st.set_page_config(page_title='Facial Recoginition', layout="wide")
 
